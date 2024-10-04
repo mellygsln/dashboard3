@@ -18,5 +18,5 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```
-streamlit run tugasbangkit.py
+streamlit run tugasbangkitrevision.py
 ```
